@@ -22,9 +22,7 @@ explored live.
 
 ## c. GitHub Repository Link
 
-> **TODO:** Replace with your actual repo link after you push, e.g.
-> `https://github.com/<your-username>/ml-assignment-2-breast-cancer`
-
+https://github.com/2025ac05636-star/Breast-Cancer---Diaganose
 ## d. Models Used
 
 > Note: the assignment brief lists 5 models but also states "all the 6 ML
@@ -81,11 +79,10 @@ pip install -r requirements.txt
 python model/train_models.py   # regenerates models + test_data.csv (optional, already included)
 streamlit run app.py
 ```
-
 ## Live App
 
-> **TODO:** Replace with your deployed Streamlit Community Cloud link, e.g.
-> `https://<your-app-name>.streamlit.app`
+**Live App:**
+https://breast-cancer---diaganose-nggnmuytczaupk3pjqxs4b.streamlit.app/
 
 ## App Features
 
